@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace Vorlage;
+namespace AoCFile;
 
 public class AoCFile
 {

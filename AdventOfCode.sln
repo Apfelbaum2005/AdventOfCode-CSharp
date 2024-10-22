@@ -1,10 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vorlage", "Vorlage\Vorlage.csproj", "{DFEA74B6-A9C0-4307-8CFB-A7E44E13F2A7}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AoC 2023", "AoC 2023", "{BCAC5E63-D1D1-48E2-B1A7-C085C51FF7CD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1 - Trebuchet", "Day1 - Trebuchet\Day1 - Trebuchet.csproj", "{E3C6110E-9DF8-4598-94AD-43E41AB70399}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoCFile", "AoCFile\AoCFile.csproj", "{F6C3BDC9-0FC6-45B4-B54D-1F0A015DD664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,16 +8,11 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DFEA74B6-A9C0-4307-8CFB-A7E44E13F2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DFEA74B6-A9C0-4307-8CFB-A7E44E13F2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DFEA74B6-A9C0-4307-8CFB-A7E44E13F2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DFEA74B6-A9C0-4307-8CFB-A7E44E13F2A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E3C6110E-9DF8-4598-94AD-43E41AB70399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3C6110E-9DF8-4598-94AD-43E41AB70399}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3C6110E-9DF8-4598-94AD-43E41AB70399}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3C6110E-9DF8-4598-94AD-43E41AB70399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C3BDC9-0FC6-45B4-B54D-1F0A015DD664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C3BDC9-0FC6-45B4-B54D-1F0A015DD664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C3BDC9-0FC6-45B4-B54D-1F0A015DD664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C3BDC9-0FC6-45B4-B54D-1F0A015DD664}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{E3C6110E-9DF8-4598-94AD-43E41AB70399} = {BCAC5E63-D1D1-48E2-B1A7-C085C51FF7CD}
 	EndGlobalSection
 EndGlobal
