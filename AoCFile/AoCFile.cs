@@ -4,6 +4,11 @@ namespace AoCFile;
 
 public class AoCFile
 {
+    public static void Main(string[] args)
+    {
+        
+    }
+    
     private ArrayList alFile;
     
     public AoCFile()
